@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quantum.Widgets
 {
-    internal class IWidget
+    public interface IWidget
     {
     }
 }

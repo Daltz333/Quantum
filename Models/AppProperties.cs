@@ -46,6 +46,16 @@ namespace Quantum.Models
         }
 
         /// <summary>
+        /// Default application height, mostly used in binding and grid calculation
+        /// </summary>
+        public static int kDefaultHeight { get; private set; } = 650;
+
+        /// <summary>
+        /// Default application width, mostly used in binding and grid calculations
+        /// </summary>
+        public static int kDefaultWidth { get; private set; } = 1200;
+
+        /// <summary>
         /// Whether we are in release mode or not
         /// </summary>
 #if DEBUG
