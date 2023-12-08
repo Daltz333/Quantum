@@ -1,5 +1,7 @@
 # Quantum
 
+[![CI](https://github.com/Daltz333/Quantum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Daltz333/Quantum/actions/workflows/CI.yml)
+
 An FRC dashboard focused on simplicity, stability and performance.
 
 ## Philosophy
