@@ -10,6 +10,8 @@ This does mean we remove highly enjoyed features such as data recording and grap
 
 ## Project Goals
 
+- [ ] Always On Top toggle
+- [ ] Restore window size & position on launch
 - [ ] Flexible Grid UI
 - [ ] Tabular Data
 - [ ] UI serialization and deserialization
@@ -25,6 +27,7 @@ This does mean we remove highly enjoyed features such as data recording and grap
   - [ ] Dark/Light theme
   - [ ] Enable/disable analytics (crash reports will be mandatory during testing period)
   - [ ] Reset application (reset all layouts and settings)
+  - [ ] Attempt to restore window size & position on launch
 - [ ] NT4 connection
 - [ ] Target ping stats
 - [ ] "Simple" code generated layout

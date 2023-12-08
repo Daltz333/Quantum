@@ -3,8 +3,10 @@ using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using Avalonia.Markup.Xaml;
+using Quantum.Models;
 using Quantum.ViewModels;
 using Quantum.Views;
+using System.Reflection;
 
 namespace Quantum
 {

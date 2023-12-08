@@ -11,7 +11,7 @@
     d:DesignHeight="50"
     d:DesignWidth="800"
     mc:Ignorable="d">
-    <Border Padding="10">
+    <Border Padding="10" Background="{StaticResource accentPrimary}">
         <Grid ColumnDefinitions="auto, *, auto">
             <Grid ColumnDefinitions="*,*, auto">
                 <TextBlock VerticalAlignment="Center" Text="Team # or IP Address:" />

@@ -6,7 +6,6 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:views="using:Quantum.Views"
     xmlns:vm="using:Quantum.ViewModels"
-    Title="Quantum"
     MinWidth="600"
     MinHeight="450"
     d:DesignHeight="450"

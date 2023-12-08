@@ -1,4 +1,5 @@
 using Avalonia.Controls;
+using Quantum.Models;
 
 namespace Quantum.Views
 {
@@ -6,6 +7,9 @@ namespace Quantum.Views
     {
         public MainWindow()
         {
+            // Add version to application name
+            Title = $"{AppProperties.AppName} - {AppProperties.AppVersion}";
+
             InitializeComponent();
         }
     }
