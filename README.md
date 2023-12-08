@@ -10,26 +10,26 @@ This does mean we remove highly enjoyed features such as data recording and grap
 
 ## Project Goals
 
-- [] Flexible Grid UI
-- [] Tabular Data
-- [] UI serialization and deserialization
-  - [] Check if layout is possible (min/max checks)
-- [] Widgets
-  - [] Camera
-    - [] Crosshair
-    - [] Bandwidth Estimator
-    - [] Resolution & FPS customization
-  - [] Text
-  - [] Boolean Box
-- [] Application Settings
-  - [] Dark/Light theme
-  - [] Enable/disable analytics (crash reports will be mandatory during testing period)
-  - [] Reset application (reset all layouts and settings)
-- [] NT4 connection
-- [] Target ping stats
-- [] "Simple" code generated layout
-  - [] Investigate Eli's telemetry spec
-  - [] Develop spec or support subset of Shuffleboard API
+- [ ] Flexible Grid UI
+- [ ] Tabular Data
+- [ ] UI serialization and deserialization
+  - [ ] Check if layout is possible (min/max checks)
+- [ ] Widgets
+  - [ ] Camera
+    - [ ] Crosshair
+    - [ ] Bandwidth Estimator
+    - [ ] Resolution & FPS customization
+  - [ ] Text
+  - [ ] Boolean Box
+- [ ] Application Settings
+  - [ ] Dark/Light theme
+  - [ ] Enable/disable analytics (crash reports will be mandatory during testing period)
+  - [ ] Reset application (reset all layouts and settings)
+- [ ] NT4 connection
+- [ ] Target ping stats
+- [ ] "Simple" code generated layout
+  - [ ] Investigate Eli's telemetry spec
+  - [ ] Develop spec or support subset of Shuffleboard API
 - Probably more, pending
 
 ## Control Submission Policy FAQ
